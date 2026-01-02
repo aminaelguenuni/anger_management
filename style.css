@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #acd8db; 
+    color: #333; 
+    padding: 20px;
+    display: flex;          
+    align-items: center;     
+    flex-direction: column;   
+    justify-content: center;  
+    height: 100vh;            
+}
+button{
+    background-color: #126aee; 
+    color: white;             
+    padding: 10px 20px;        
+    border: none;             
+    border-radius: 4px;       
+    font-size: 16px;          
+    cursor: pointer;          
+    transition: background-color 0.3s ease; 
+    
+}
